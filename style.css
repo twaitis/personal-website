@@ -1,0 +1,219 @@
+header{
+	border: 5px solid;
+	margin: 0px;
+	text-align: center;
+	background-image: url('header.jpg');
+	background-position: bottom;
+}
+
+h1{
+	color: white;
+	text-shadow: 2px 2px 5px red;
+}
+
+ul{
+	color: white;
+	text-align: center;
+
+}
+li{
+	display: inline-block;
+	background-color: orange;
+	color: white;
+	padding: 10px;
+}
+
+body#index{
+	background-image: url('home.jpg'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body#background{
+	background-image: url('sanaa.jpg'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+body#cs{
+	background-image: url('binary.gif'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+body#ling{
+	background-image: url('nlp.gif'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+body#skills{
+	background-image: url('skills.gif'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+body#more{
+	background-image: url('science.gif'); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+article{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	margin-right: 300px;
+	margin-left: 300px;
+}
+
+.center{
+	opacity: 0.6;
+	display: block;
+    margin-left: auto;
+  	margin-right: auto;
+  	width: 30%;
+  	float: center;
+}
+
+section#bk_coffee{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: left;
+	width: 25%;
+}
+
+section#bk_ibb{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right;
+	width: 25%;
+	height: 20%;
+}
+
+section#cs_right{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right;
+	width: 25%;
+	height: 20%;
+}
+
+section#cs_left{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right center;
+	width: 25%;
+	height: 20%;
+}
+
+section#ling_left{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: center;
+	width: 20%;
+}
+
+section#ling_right{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right;
+	width: 20%;
+}
+
+section#skills_left{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right center;
+	width: 35%;
+	height: 20%;
+}
+
+section#skills_right{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right;
+	width: 35%;
+}
+
+section#more_left{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right center;
+	width: 35%;
+	height: 20%;
+}
+
+section#more_right{
+	color: black;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	float: right;
+	width: 35%;
+	
+}
+
+footer{
+	border: 5px solid;
+	margin: 0px;
+	text-align: center;
+	background-image: url('header.jpg');
+	background-position: bottom;
+}
+
+footer div{
+	color: black;
+	text-align: left;
+	text-decoration: none;
+	background-color: orange;
+	border: 5px dotted;
+	border-color: gold;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	margin-right: 300px;
+	margin-left: 300px;
+	padding-left: 0px;
+}
+
