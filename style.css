@@ -1,13 +1,3 @@
-@viewport{
-	zoom: 1.0;
-	width: extend-to-zoom;
-}
-
-@-ms-viewport{
-	width: extend-to-zoom;
-	zoom: 1.0;
-}
-
 *{
 	margin: 0;
 	padding: 0;
@@ -272,3 +262,25 @@ footer div{
 	padding-left: 0px;
 }
 
+@viewport{
+	zoom: 1.0;
+	width: extend-to-zoom;
+}
+
+@-ms-viewport{
+	width: extend-to-zoom;
+	zoom: 1.0;
+}
+
+@media (min-width: 600px){
+	p {
+		font-size: 1.25rem;
+	}
+}
+
+@media (min-width: 800px){
+	p {
+		font-size: 1.5rem;
+		line-height: 1.5;
+	}
+}
