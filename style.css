@@ -6,12 +6,10 @@
 
 header{
 	border: 5px solid;
+	margin: 0px;
 	text-align: center;
 	background-image: url('header.jpg');
 	background-position: bottom;
-	margin-left: 100px;
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 h1{
@@ -23,9 +21,6 @@ h1{
 ul{
 	color: white;
 	text-align: center;
-	min-height: 40px;
-	margin-left: 10%;
-	margin-right: 10%;
 
 }
 li{
@@ -40,10 +35,6 @@ body#index{
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 body#background{
@@ -52,10 +43,7 @@ body#background{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
+
 }
 
 body#cs{
@@ -64,10 +52,6 @@ body#cs{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 body#ling{
@@ -76,10 +60,6 @@ body#ling{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 body#skills{
@@ -88,10 +68,6 @@ body#skills{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 body#more{
@@ -100,10 +76,6 @@ body#more{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	min-height: 400px;
-	margin-top: 3%
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 article{
@@ -242,10 +214,6 @@ footer{
 	text-align: center;
 	background-image: url('header.jpg');
 	background-position: bottom;
-	min-height: 100px;
-	margin-top: 3%;
-	margin-left: 10%;
-	margin-right: 10%;
 }
 
 footer div{
@@ -261,5 +229,4 @@ footer div{
 	margin-left: 300px;
 	padding-left: 0px;
 }
-
 
