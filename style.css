@@ -8,7 +8,10 @@
     #secondary { width:100%; margin:0; border:none; }
 }
 
-img { max-width: 100%; }
+img { 
+	max-width: 100%; 
+	display: block;
+}
 
 @media (min-device-width:600px) {
     img[data-src-600px] {
