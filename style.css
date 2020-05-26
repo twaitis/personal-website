@@ -83,8 +83,8 @@ article{
 	background-color: orange;
 	border: 5px dotted;
 	border-color: gold;
-	margin-right: 300px;
-	margin-left: 300px;
+	margin-right: auto;
+	margin-left: auto;
 	max-width: 100%;
 	height: auto;
 }
