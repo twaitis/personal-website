@@ -150,7 +150,7 @@ section#ling_left{
 	border: 5px dotted;
 	border-color: gold;
 	float: center;
-	width: 35%;
+	width: 30%;
 }
 
 section#ling_right{
@@ -160,7 +160,7 @@ section#ling_right{
 	border: 5px dotted;
 	border-color: gold;
 	float: right;
-	width: 35%;
+	width: 30%;
 }
 
 section#skills_left{
@@ -170,7 +170,7 @@ section#skills_left{
 	border: 5px dotted;
 	border-color: gold;
 	float: right center;
-	width: 30%;
+	width: 33%;
 	height: 20%;
 }
 
@@ -181,7 +181,7 @@ section#skills_right{
 	border: 5px dotted;
 	border-color: gold;
 	float: right;
-	width: 30%;
+	width: 33%;
 	height: 20%;
 }
 
