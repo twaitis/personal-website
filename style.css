@@ -170,7 +170,7 @@ section#skills_left{
 	border: 5px dotted;
 	border-color: gold;
 	float: right center;
-	width: 35%;
+	width: 30%;
 	height: 20%;
 }
 
@@ -181,7 +181,7 @@ section#skills_right{
 	border: 5px dotted;
 	border-color: gold;
 	float: right;
-	width: 35%;
+	width: 30%;
 	height: 20%;
 }
 
