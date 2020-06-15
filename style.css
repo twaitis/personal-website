@@ -8,7 +8,7 @@ header{
 	border: 5px solid;
 	margin: 0px;
 	text-align: center;
-	background-image: url('header.jpg');
+	background-image: url('images/header.jpg');
 	background-position: bottom;
 }
 
@@ -31,14 +31,14 @@ li{
 }
 
 body#index{
-	background-image: url('home.jpg'); 
+	background-image: url('images/home.jpg'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
 body#background{
-	background-image: url('sanaa.jpg'); 
+	background-image: url('images/sanaa.jpg'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -46,7 +46,7 @@ body#background{
 }
 
 body#cs{
-	background-image: url('binary.gif'); 
+	background-image: url('images/binary.gif'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -54,7 +54,7 @@ body#cs{
 }
 
 body#ling{
-	background-image: url('nlp.gif'); 
+	background-image: url('images/nlp.gif'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -62,7 +62,7 @@ body#ling{
 }
 
 body#skills{
-	background-image: url('skills.gif'); 
+	background-image: url('images/skills.gif'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -70,7 +70,7 @@ body#skills{
 }
 
 body#more{
-	background-image: url('science.gif'); 
+	background-image: url('images/science.gif'); 
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -211,7 +211,7 @@ footer{
 	border: 5px solid;
 	margin: 0px;
 	text-align: center;
-	background-image: url('header.jpg');
+	background-image: url('images/header.jpg');
 	background-position: bottom;
 }
 
